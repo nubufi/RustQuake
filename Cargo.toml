@@ -7,7 +7,7 @@ license = "MIT OR Apache-2.0"
 description = "RustQuake is a high-performance Rust library for group motion calculations, signal processing, and seismic response analysis, inspired by SeismoSignal."
 repository = "https://github.com/nubufi/RustQuake"
 readme = "README.md"
-keywords = ["geotechnical", "earthquake", "seismicity", "ground motion", "rust"]
+keywords = ["geotechnical", "earthquake", "seismicity", "rust"]
 categories = ["science", "mathematics"]
 
 [dependencies]
